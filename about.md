@@ -10,5 +10,5 @@ I am interested in research as well as the theory behind it, in particular the d
 
 ### More Information
 
-As an astrophysicsist I regularly publish scientific papers, my current h-index is 10 (and growing!). To see my list of publications check out my [Google Scholar page](https://scholar.google.com.au/citations?user=mMzoU24AAAAJ&hl=en) or my [Orcid account](http://orcid.org/0000-0002-6161-0705). ![Orcid](https://github.com/AstroHyde/astrohyde.github.io/blob/master/my_orcid_qrcode.png?raw=true){:height="36px"}
+As an astrophysicsist I regularly publish scientific papers, my current h-index is 10 (and growing!). To see my list of publications check out my [Google Scholar page](https://scholar.google.com.au/citations?user=mMzoU24AAAAJ&hl=en) or my [Orcid account](http://orcid.org/0000-0002-6161-0705). <div style="width:50%;">![Orcid](https://github.com/AstroHyde/astrohyde.github.io/blob/master/my_orcid_qrcode.png?raw=true)</div>
 
